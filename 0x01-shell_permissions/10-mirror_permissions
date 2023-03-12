@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod stat-c %a olleh hello
+rm  hello
+umask 113
+touch hello
