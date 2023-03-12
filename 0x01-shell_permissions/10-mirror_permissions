@@ -1,4 +1,2 @@
 #!/bin/bash
-rm  hello
-umask 113
-touch hello
+umask 113 hello
