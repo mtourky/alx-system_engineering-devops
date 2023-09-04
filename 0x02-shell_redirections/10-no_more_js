@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js
+ls *.js | rm type file 
